@@ -1,0 +1,76 @@
+# Hawk Nelson – Sold Out
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.32] I ain't like no one you met before
+[00:20.04] I'm running for the front
+[00:21.50] When they're all running for the door
+[00:23.70] And I won't sit down
+[00:25.01] Won't back out
+[00:26.22] You can't ever shut me up, 'cause
+[00:28.23] I'm on a mission and I won't quit now
+[00:46.73] 
+[00:31.79] In a world full of followers, I'll be a leader
+[00:35.48] In a world full of doubters, I'll be a believer
+[00:40.37] I'm stepping out without a hesitation
+[00:44.35] Because the battle's already been won
+[01:02.85] 
+[00:47.70] I'm sold out
+[00:49.93] I'm no longer living just for myself
+[00:54.04] Running after Jesus with my whole heart
+[00:58.66] And now I'm ready to show
+[01:01.19] I am sold out
+[01:07.69] 
+[01:03.88] I'm sold out
+[01:05.91] With every single step that I take now
+[01:09.99] With every drop of blood left in my veins I'm
+[01:14.16] Gonna be making it count
+[01:17.24] I am sold out
+[01:23.74] 
+[01:20.39] This ain't just some temporary phase
+[01:23.89] You can't face this kind of grace
+[01:26.13] And leave the way you came
+[01:27.60] This is permanent with intent
+[01:30.06] And there won't be no stoppin' it now
+[01:32.49] I'm on a mission and it's heaven-sent
+[01:50.99] 
+[01:35.77] In a world full of followers, I'll be a leader
+[01:39.59] In a world full of doubters, I'll be a believer
+[01:44.34] I'm stepping out without a hesitation
+[01:48.10] 'Cause my soul is like a stadium
+[02:04.10] 
+[01:51.41] And I'm sold out
+[01:54.09] I'm no longer living just for myself
+[01:57.91] Running after Jesus with my whole heart
+[02:02.42] And now I'm ready to show
+[02:05.00] I am sold out
+[02:11.50] 
+[02:07.83] I'm sold out
+[02:09.75] With every single step that I take now
+[02:13.50] With every drop of blood left in my veins I'm
+[02:18.52] Gonna be making it count
+[02:21.22] I am sold out
+[02:27.72] 
+[02:25.35] No trials coming against me
+[02:29.32] Can put a dent in my passion
+[02:33.56] They're just an opportunity
+[02:37.50] To put my faith into action
+[02:51.00] 
+[02:40.09] In a world full of followers, I'll be a leader
+[02:43.55] In a world full of doubters, I'll be a believer
+[02:48.48] I'm stepping out without a hesitation
+[02:52.39] I ain't got nothing left to be afraid of
+[03:12.39] 
+[02:55.85] I'm sold out
+[02:58.14] I'm no longer living just for myself
+[03:01.94] Running after Jesus with my whole heart
+[03:06.44] And now I'm ready to show
+[03:08.94] I am sold out
+[03:15.44] 
+[03:11.78] I'm sold out
+[03:13.74] With every single step that I take now
+[03:17.71] With every drop of blood left in my veins I'm
+[03:22.37] Gonna be making it count
+[03:25.12] I am sold out
+```
