@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Sold Out",
+  "base_artist": "Hawk Nelson",
+  "createdAt": "2026-02-17T19:20:16.566474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SOLD OUT",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/01_SOLD_OUT_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tickets Sold Out (Skit)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/02_Tickets_Sold_Out_(Skit)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Sold Out",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/03_All_Sold_Out_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sold Out",
+      "artist": "Sleater-Kinney",
+      "has_synced": true,
+      "path": "select/04_Sold_Out_Sleater-Kinney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sold Out",
+      "artist": "Sleater‐Kinney",
+      "has_synced": true,
+      "path": "select/05_Sold_Out_Sleater‐Kinney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sold Out Dates",
+      "artist": "Gunna feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/06_Sold_Out_Dates_Gunna_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sold Out of Flag Poles",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_Sold_Out_of_Flag_Poles_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sold Out Of Flagpoles",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/08_Sold_Out_Of_Flagpoles_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sold Out",
+      "artist": "Hawk Nelson",
+      "has_synced": true,
+      "path": "select/09_Sold_Out_Hawk_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Cash (Money Talks) (Sold Out mix) (12\" edit)",
+      "artist": "Adventures Of Stevie V",
+      "has_synced": false,
+      "path": "select/10_Dirty_Cash_(Money_Talks)_(Sold_Out_mix)_(12__edit)_Adventures_Of_Stevie_V.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Cash (Money Talks) (Sold Out Mix 12'' Edit)",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/11_Dirty_Cash_(Money_Talks)_(Sold_Out_Mix_12''_Edit)_VA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Cash (Money Talks) [Sold Out Mix 7\" Edit]",
+      "artist": "The Adventures of Stevie V",
+      "has_synced": false,
+      "path": "select/12_Dirty_Cash_(Money_Talks)_[Sold_Out_Mix_7__Edit]_The_Adventures_of_Stevie_V.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Cash (Money Talks) (Sold Out Mix 7\" Edit)",
+      "artist": "The Adventures Of Stevie V; Eric Kupper",
+      "has_synced": false,
+      "path": "select/13_Dirty_Cash_(Money_Talks)_(Sold_Out_Mix_7__Edit)_The_Adventures_Of_Stevie_V;_Eric_Kupper.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who Sold Out Now?",
+      "artist": "Ignite",
+      "has_synced": true,
+      "path": "select/14_Who_Sold_Out_Now_Ignite.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sold [The Grundy County Auction Incident]",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/15_Sold_[The_Grundy_County_Auction_Incident]_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sold (The Grundy County Auction Incident)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/16_Sold_(The_Grundy_County_Auction_Incident)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sold (The Grundy County Auction Incident) - Remastered Version",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/17_Sold_(The_Grundy_County_Auction_Incident)_-_Remastered_Version_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sold (The Grundy County Auction Incident) (Remastered Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/18_Sold_(The_Grundy_County_Auction_Incident)_(Remastered_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sold (The Grundy County Auction Incident) (Remastered Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/19_Sold_(The_Grundy_County_Auction_Incident)_(Remastered_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World - Live",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/20_The_Man_Who_Sold_the_World_-_Live_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/21_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/22_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/23_The_Man_Who_Sold_the_World_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/24_The_Man_Who_Sold_The_World_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/25_The_Man_Who_Sold_the_World_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/26_The_Man_Who_Sold_the_World_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Bought and Sold",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/27_Bought_and_Sold_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World - Live & Loud",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/28_The_Man_Who_Sold_The_World_-_Live_&_Loud_Nirvana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sold Out",
+      "artist": "Hawk Nelson",
+      "has_synced": false,
+      "path": "select/pl_01_Sold_Out_Hawk_Nelson.txt"
+    }
+  ]
+}
